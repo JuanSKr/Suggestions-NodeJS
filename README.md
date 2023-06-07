@@ -14,7 +14,7 @@
   - Get a link to invite the bot: `?invite`
   - Get a link to upvote the bot: `?upvote`
 
-#### 🔨 Programming languages utilized in the development of this application:
+#### 🔨 Programming languages utilized in the development of this bot:
 <ul style="list-style-type: none;">
   <li>Java 
     <br><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/></li>
