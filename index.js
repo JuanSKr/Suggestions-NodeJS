@@ -74,7 +74,7 @@ sk.on('message', async (skmsg) => {
             .setColor("ORANGE")
             .setFooter("Suggested", sk.user.avatarURL())
             .addField(":large_orange_diamond:  Current Prefix:", "``?``")
-            .addField(":speech_balloon: Information Commands:", "`help` | `changelog`, `ping`, `invite`, `upvote`")
+            .addField(":speech_balloon: Information Commands:", "`help` | `suggest`, `changelog`, `ping`, `invite`, `upvote`")
 
             skmsg.author.send(help)
             
