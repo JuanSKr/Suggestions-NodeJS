@@ -134,7 +134,7 @@ sk.on('message', async (skmsg) => {
 });
 
 
-const token = 'ODE5NjcwNzkwNjcxOTU4MTE3.YEp_6Q.dpTxdfhTD6-os_R52tCO4ASXCqM';
+const token = 'YourToken';
 sk.login(token);
 
 
